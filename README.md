@@ -1,1 +1,1 @@
-# effective-winner.io
+# effective-winner
