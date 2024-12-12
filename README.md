@@ -1,1 +1,1 @@
-# effective-winner.tims
+# effective-winner.ru
